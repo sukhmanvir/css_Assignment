@@ -1,0 +1,69 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kavoon&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap');
+*{
+  margin:0;
+  padding:0;
+}
+
+.text{
+  background-color:#FCFFE9;
+  border-bottom:5px double black;
+}
+.text h1{
+  margin: 17px 65px;
+  font-family: 'Kalam', cursive;
+}
+.text h2{
+  margin:0px 69px;
+  font-family: 'Kalam', cursive;
+
+}
+#heading{
+  
+  font-family: 'Lora', serif;
+  font-weight: bolder;
+  font-size: 1.8rem;
+  margin-left: 50px;
+  margin-top: 50px;
+
+}
+.lyrics pre i{
+  font-family: 'Lobster', cursive;
+  text-shadow: 1px 1px #FD6868;
+}
+.lyrics{
+  padding:25px;
+  width:670px;
+  margin:auto;
+  background-color:#FCE3FB ;
+  margin-top: 23px;
+  border:3px dashed black;
+  
+}
+
+.lyrics pre{
+  font-family: 'Pacifico', cursive;
+  font-size:1.8rem;
+}
+.lyrics .high{
+font-family: 'Kalam', cursive;
+  text-shadow:2px 1px white;
+  font-size:23px;
+}
+.lyrics .low{
+  font-family: 'Kavoon', cursive;
+  text-shadow:2px 1px white;
+}
+.lyrics .sohigh{
+  font-family: 'Rubik Mono One', sans-serif;
+  font-size:1rem;
+  text-decoration:underline;
+}
